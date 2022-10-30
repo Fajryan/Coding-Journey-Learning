@@ -5,4 +5,4 @@ Front-End Developer:
 - Belajar JavaScript 
 - Belajar Framework
 - Build website from scratch
-- Bikin protfolio menggunakan ilmu yang sudah dipelajari
+- Portfolio
