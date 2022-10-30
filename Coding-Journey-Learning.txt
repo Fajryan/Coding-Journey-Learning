@@ -1,0 +1,6 @@
+Perjalanan belajar coding dari pemula hingga mahir.
+Front-End Developer:
+- Belajar HTML
+- Belajar CSS
+- Belajar JavaScript 
+- Belajar Framework
