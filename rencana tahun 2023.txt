@@ -6,4 +6,8 @@ Remcana tahun 2023
 - Kerja
 - Gaji pertama
 - Belajar JavaScript
-- Framework
+  * Framework Javascript
+   Vue
+- Belajar PHP
+  *Framework PHP
+  *Laravel
