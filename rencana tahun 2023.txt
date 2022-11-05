@@ -2,13 +2,14 @@ Remcana tahun 2023
 - Ke Jepang
   * Besiswa
   * Parsial Beasiswa
-- Struktur data dasar
 - Kerja
 - Gaji pertama
 - Belajar JavaScript
-  * Framework Javascript
+ * Framework Javascript
     .Vue
     .React
 - Belajar PHP
-  *Framework PHP
-  *Laravel
+  *Framework
+    .Laravel
+
+  
